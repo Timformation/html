@@ -1,0 +1,46 @@
+.bid-heading {
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+}
+.rows {
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgrey;  
+}
+
+.buttons {
+    justify-content: flex-end;
+    width: 150px;
+    margin: 10px 10px 10px 0;
+}
+
+.column-headings {
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    border-bottom: 1px solid lightgrey;
+}
+
+.item {
+    width: 150px;
+}
+
+.icons {
+    width: 150px;
+    text-align: right;
+}
+
+.grey {
+    background-color: #eee;
+}
+
+.id {
+    width: 50px;
+    margin-left: 10px;
+}
+
+.type {
+    width: 200px;
+}
