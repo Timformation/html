@@ -1,0 +1,256 @@
+body {
+line-height:23px;
+margin: 0 0;
+font-family: Helvetica;
+background-color:#fff;
+text-align: justify;
+}
+
+input, label, submit, select, textarea {
+display: block;
+margin: 15px 0 15px 0;
+}
+
+input, textarea, select {
+border: 2px solid #930;
+}
+
+
+h1 {
+color: #039;
+border-bottom: 2px solid #ccc;
+}
+
+textarea {
+height: 75px;
+width: 275px;
+}
+
+nav img {
+width: 110px;
+border: 2px solid black;
+}
+
+footer img {
+width: 600px;
+border: 2px solid black;
+}
+
+img {
+width: 200px;
+border:2px solid black;
+}
+
+header a {
+font-size: 19px;
+color: white;
+text-decoration: none;
+}
+
+.contact-me a {
+color: #930;
+text-decoration: none;
+}
+
+.contact-me a:hover {
+color:#fcc;
+
+font-weight: bolder;
+}
+
+nav li {
+display: inline;
+margin: 0 20px;
+}
+
+main {
+background-color: #fff;
+}
+
+th {
+border-bottom: 2px solid #ccc;
+font-size: 18px;
+padding: 20px 20px;
+text-align: left;
+}
+
+section {
+background-color: #fff;
+}
+
+.resume-table {
+width: 80%;
+margin: 0 auto 0 auto;
+}
+
+.resume-table a {
+color: #009999;
+text-decoration: none;
+}
+
+.resume-table a:hover {
+font-weight: bolder;
+color: #ccffff;
+}
+
+.header-home a:hover {
+background-color: white;
+color:#003399;
+}
+
+.header-resume a:hover {
+background-color: white;
+color: #009999;
+}
+
+.header-projects a:hover {
+background-color: white;
+color: #009933;
+}
+
+.header-contact-me a:hover {
+background-color: white;
+color: #993300;
+}
+
+.header-home {
+border-bottom: 2px solid black;
+background-color: #003399;
+}
+
+.header-resume {
+border-bottom: 2px solid black;
+background-color: #009999;
+}
+
+.header-projects {
+border-bottom: 2px solid black;
+background-color: #009933;
+}
+
+.header-contact-me {
+border-bottom: 2px solid black;
+background-color: #993300;
+}
+
+.nav-home {
+color:white;
+padding: 30px 0 30px 0;
+text-align: center;
+}
+
+.nav-resume {
+color: white;
+padding: 30px 0 30px 0;
+text-align: center;
+}
+
+.nav-projects{
+color: white;
+padding: 30px 0 30px 0;
+text-align: center;
+}
+
+.nav-contact-me {
+color: white;
+padding: 30px 0 30px 0;
+text-align: center;
+}
+
+.current-page {
+font-weight:bolder;
+}
+
+.projects-table h3 {
+color: #009933;
+}
+
+.projects-table img {
+border: 2px solid black;
+width: 200px;
+}
+
+.contact-me {
+border-bottom: 2px solid #ccc;
+width: 45%;
+margin: 0 auto 0 auto;
+}
+
+.feedback {
+width: 45%;
+margin: 0 auto 0 auto;
+}
+
+.projects-table {
+width: 60%;
+margin: 0 auto 0 auto;
+}
+
+.projects-table a {
+color:#009933;
+text-decoration: none;
+}
+
+.projects-table a:hover {
+color:#ccffcc;
+text-decoration: none;
+}
+
+.projects-table img:hover {
+border: 5px solid #ccffcc;
+}
+
+.left-home {
+display: inline-block;
+width: 25%;
+margin: 40px 40px;
+}
+
+.right-home a:hover {
+font-weight:bolder;
+color: #ccccff;
+}
+
+.right-home a {
+text-decoration:none;
+color: #039;
+}
+
+.right-home {
+text-align: justify;
+display: inline-block;
+width: 60%;
+margin-top: 30px;
+}
+
+.footer-home {
+margin-top: 10%;
+border-top: 2px solid black;
+background-color: #ccccff;
+text-align: center;
+padding: 50px 0 50px 0;
+}
+
+.footer-resume {
+margin-top: 10%;
+border-top: 2px solid black;
+background-color: #ccffff;
+text-align: center;
+padding: 50px 0 50px 0;
+}
+
+.footer-projects {
+margin-top: 10%;
+border-top: 2px solid black;
+background-color: #ccffcc;
+text-align: center;
+padding: 50px 0 50px 0;
+}
+
+.footer-contact-me {
+margin-top: 10%;
+border-top: 2px solid black;
+background-color: #ffcccc;
+text-align: center;
+padding: 50px 0 50px 0;
+}
